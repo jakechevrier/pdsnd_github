@@ -18,7 +18,7 @@ def get_filters():
         (str) day - name of the day of week to filter by, or "all" to apply no day filter
     """
     print('\n\n*********************************************')
-    print('Hello! Let\'s explore some US bikeshare data!\n')
+    print('Hello welcome! Let\'s explore some US bikeshare data!\n')
     
     
     
@@ -268,7 +268,7 @@ def show_raw_data(df):
             if i <= len(df):
                 show_raw_data = input("\nDo you want to show 5 more rows of raw data? (yes/no)").lower()
             else:
-                print("End of data.")
+                print("End of raw data.")
                 show_raw_data = 'no'
         else:
             show_raw_data = input("Your input was invalid... Do you want to show 5 rows of raw data? (yes/no)").lower()
@@ -289,6 +289,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("Thank you.")
             break
 
 
