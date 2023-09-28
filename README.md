@@ -18,5 +18,4 @@ This app provides insights on **bikeshare** data for 3 different cities:
 3. washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Credit to stackoverflow.com
