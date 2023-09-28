@@ -7,10 +7,15 @@ September 27, 2023
 Udacity Bikeshare App
 
 ### Description
-Describe what your project is about and what it does
+This app provides insights on **bikeshare** data for 3 different cities:
+1. New York City
+2. Washington
+3. Chicago.
 
 ### Files used
-Include the files used
+1. chicago.csv
+2. new_york_city.csv
+3. washington.csv
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
