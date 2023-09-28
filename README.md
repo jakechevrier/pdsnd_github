@@ -17,5 +17,8 @@ This app provides insights on **bikeshare** data for 3 different cities:
 2. new_york_city.csv
 3. washington.csv
 
+### Known Issues
+No know issues currently - 9/27/23
+
 ### Credits
 Credit to stackoverflow.com
