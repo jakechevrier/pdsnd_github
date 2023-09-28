@@ -268,7 +268,7 @@ def show_raw_data(df):
             if i <= len(df):
                 show_raw_data = input("\nDo you want to show 5 more rows of raw data? (yes/no)").lower()
             else:
-                print("End of data.")
+                print("End of raw data.")
                 show_raw_data = 'no'
         else:
             show_raw_data = input("Your input was invalid... Do you want to show 5 rows of raw data? (yes/no)").lower()
